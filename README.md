@@ -1,4 +1,5 @@
-![GitHub Profile Banner](github_banner.jpg)
+![GitHub Profile Banner](https://github.com/CSumm/CSumm/assets/31711543/8f08a755-6a15-4d2a-8301-a8ea168df10c)
+
 
 
 # Hi!
